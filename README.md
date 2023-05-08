@@ -11,7 +11,7 @@ This is a WORK IN PROGRESS dataset creation tool, targeted towards people making
 
 # Installation
 
-```py
+```sh
 git clone https://github.com/sALTaccount/UltimateDatasetCreate.git
 cd UltimateDatasetCreate
 pip install -r requirements.txt
