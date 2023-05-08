@@ -1,0 +1,6 @@
+PROJECT_DIRECTORY = ''
+VALID_EXTENSIONS = ['jpg', 'jpeg', 'png', 'webp']
+IS_DOWNLOADING = False
+SHOULD_CANCEL = False
+
+IMAGE_DISPLAY_RES = (512, 512)
